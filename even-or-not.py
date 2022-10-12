@@ -2,6 +2,6 @@
 
 number= int(input('Write a number: '))
 if number % 2 == 0:
-    print('The number ' + str(number) + ' is par')
+    print('The number ' + str(number) + ' is even')
 else:
-    print('The number ' + str(number) + ' is not par')
+    print('The number ' + str(number) + ' is not even')
