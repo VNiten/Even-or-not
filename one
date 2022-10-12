@@ -1,0 +1,5 @@
+numero = int(input('Escruba un nùmero'))
+if numero % 2 == 0:
+    print('el nùmero es par bro')
+else:
+    print('es nùmero es impar, quìtate')
